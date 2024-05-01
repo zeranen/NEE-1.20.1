@@ -1,0 +1,10 @@
+{
+  "item.not_enough_energy.copper_wires": "Copper wires",
+  "item.not_enough_energy.afis": "Afis",
+  "item.not_enough_energy.mix_stone": "Mixture of conductive redstone",
+  "item.not_enough_energy.conductive_redstone": "Conductive redstone",
+
+  "block.not_enough_energy.afis_ore_block": "Afis ore block",
+
+  "creativetab.nee_tab": "Not Enough Energy"
+}

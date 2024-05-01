@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "not_enough_energy:block/afis_ore_block"
+  }
+
+
+}
